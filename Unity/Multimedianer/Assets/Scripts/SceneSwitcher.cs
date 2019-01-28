@@ -7,7 +7,7 @@ public class SceneSwitcher : MonoBehaviour
 
     public void SceneChange()
     {
-        SceneManager.LoadScene(1    );
+        SceneManager.LoadScene(1);
         Debug.Log("Klick");
     }
 }
