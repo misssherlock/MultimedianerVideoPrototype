@@ -8,8 +8,7 @@ WORKFLOW
 
 -> PUSH
  
- 
-  
+----------
  
 Der Multimedianer ist ein 2D basierendes serious game. 
 
