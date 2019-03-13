@@ -1,6 +1,15 @@
 # Multimedianer
 
+WORKFLOW
 
+-> PULL
+
+-> WORK ON SOMETHING
+
+-> PUSH
+ 
+----------
+ 
 Der Multimedianer ist ein 2D basierendes serious game. 
 
   - Sofern man alle Quizfragen richtig beantwortet, wird der Multimedianer auch freigeschalten.

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class QuestionRandomizer : MonoBehaviour 
+public class QuestionRandomizer : MonoBehaviour
 {
     // Use this for initialization
     public void ChangeText()
