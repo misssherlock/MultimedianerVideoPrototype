@@ -1,5 +1,15 @@
 # Multimedianer
 
+WORKFLOW
+
+-> PULL
+
+-> WORK ON SOMETHING
+
+-> PUSH
+
+
+
 
 Der Multimedianer ist ein 2D basierendes serious game. 
 
